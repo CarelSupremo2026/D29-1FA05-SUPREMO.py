@@ -15,3 +15,4 @@ print(f"The distance between the two points is: {distance:.2f}")
 # The math library is more practical than writing all calculations from scratch because it saves time and reduces complex coding.
 # Using ready-to-use functions in the math library such as sqrt() and pow() simplified the equation for the distance.
 # Without the math library, calculating a square root would make the program longer, hard to read and have coding problems.
+# The distance formula helps the user find the distance between two points on a coordinate plane.
